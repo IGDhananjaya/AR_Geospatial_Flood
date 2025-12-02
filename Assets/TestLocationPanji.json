@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "TestLocationPanji",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "TLP": "1" }, "geometry": { "type": "LineString", "coordinates": [ [ 115.0897817, -8.1454982 ], [ 115.0896228, -8.1455717 ], [ 115.0894049, -8.1456704 ], [ 115.0891348, -8.1457794 ] ] } }
+]
+}

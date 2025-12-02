@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "TestLocationUndiksha",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "TLU": "1" }, "geometry": { "type": "LineString", "coordinates": [ [ 115.0878144, -8.1176672 ], [ 115.0879244, -8.1179089 ], [ 115.0882972, -8.1177495 ], [ 115.0884903, -8.1181771 ], [ 115.0877688, -8.1184691 ], [ 115.0875918, -8.1180443 ], [ 115.0874362, -8.1181001 ] ] } }
+]
+}
