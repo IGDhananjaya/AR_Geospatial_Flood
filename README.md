@@ -82,7 +82,7 @@ To run or develop this application, you need a device that meets the following *
 5.  **Evacuation:** Follow the floating 3D arrows to find the path to the nearest shelter.
 
 ## 📸 Screenshots
-<img src="images/menu.png" width="200" alt="Main Menu"> <img src="images/flood-sim.png" width="200" alt="Flood Simulation"> <img src="images/navigation.png" width="200" alt="Shelter Navigation">
+<img src="ImageGithub/HomeScreen.jpeg" width="200" alt="Main Menu"> <img src="ImageGithub/GuideScreen.jpeg" width="200" alt="Guide Menu"> <img src="ImagesGithub/ScanScreen.jpeg" width="200" alt="Scan Simulation"> 
 > **Demo Video:** Watch the application in action [here](https://youtube.com/shorts/lTdHx6UdDMc?feature=share).
 
 
