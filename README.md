@@ -58,7 +58,7 @@ To run or develop this application, you need a device that meets the following *
 ## 📥 Installation
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+    git clone https://github.com/IGDhananjaya/AR_Geospatial_Flood.git
     ```
 2.  **Open in Unity:**
     Open the project folder using Unity Hub.
