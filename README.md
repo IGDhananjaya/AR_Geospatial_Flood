@@ -83,6 +83,7 @@ To run or develop this application, you need a device that meets the following *
 
 ## 📸 Screenshots
 <img src="images/menu.png" width="200" alt="Main Menu"> <img src="images/flood-sim.png" width="200" alt="Flood Simulation"> <img src="images/navigation.png" width="200" alt="Shelter Navigation">
+> **Demo Video:** Watch the application in action [here](https://youtube.com/shorts/lTdHx6UdDMc?feature=share).
 
 
 ## 👥 Team
